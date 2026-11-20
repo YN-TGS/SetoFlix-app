@@ -1,6 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "notas": "Ahora recuerda en qué capítulo y minuto quedaste («Seguir viendo») y se actualiza sola.",
-  "apk": "https://github.com/YN-TGS/SetoFlix-app/releases/download/v0.3.0/SetoFlix-0.3.0.apk"
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "notas": "Desde esta versión la tele ya no se actualiza sola: cuando haya una nueva, aparece un botón «Nueva versión» arriba, junto a «PCs». Antes de instalar comprueba que el archivo sea el correcto.",
+  "apk": "https://github.com/YN-TGS/SetoFlix-app/releases/download/v0.4.0/SetoFlix-0.4.0.apk",
+  "sha256": "a287a156454b607ff0cb1121093dfcd7d2018322d96af35debcaca0b4abfb664"
 }
